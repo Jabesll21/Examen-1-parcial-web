@@ -1,0 +1,99 @@
+h1{
+    text-align: center;
+    color: #041e3b;
+
+}
+h3{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h6{
+    text-align: center;
+
+}
+.cuadrado {
+    text-align:center;
+    padding: 10px;
+    flex-basis: 45%;
+    max-width: 300px;
+    border-radius: 10px;
+
+}
+
+body{
+    font-family: 'Arial',sans-serif;
+    background-color: #6ca3e2;
+}
+
+
+.boton {
+    padding: 20px 60px;
+    border:none;
+    color: rgb(25, 14, 88);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.boton:hover {
+    background-color: #2875cd;
+}
+
+.boton{
+    margin: 100px;
+}
+
+.nameTeams{
+    text-align: center;
+    color:yellow ;
+}
+
+.Cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+.info{
+    margin-top: 1px;
+    color: black;
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 350px ;
+    text-align: center;
+}
+p{
+    margin-bottom:10px ;
+}
+
+.historia {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.imagen-botton{
+    width: 100%; 
+    height: auto;
+    margin: 10px 0;
+}
+
+.info-imagen{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.equipos{
+    width: 100%; 
+    height: auto;
+    margin: 5px 0;
+}
+
+
